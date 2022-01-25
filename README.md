@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jinho Seo who publishes Data Sciene on AWS Korean version Book. My Github id is @synabreu
-- 👀 I’m interested in Data Analytics and Machine Learning.
+- 👀 I’m interested in Distrubuted Computing, Big Data Analytics and Machine Learning including Deep Learning.
 - 🌱 I’m currently learning about several topics of deep learning, especially AWS SageMaker and Google's Vertext AI 
 - 💞️ I’m working as independent AI/ML architect and consultant advisor.
 - 📫 How to reach me : synabreu@outlook.com
