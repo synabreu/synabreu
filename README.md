@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jinho Seo who publishes Data Sciene on AWS Korean version Book. My Github id is @synabreu
+- 👋 안녕하세요? 서진호입니다. 저는 최근에 AWS 기반 데이터 과학(Data Sciene on AWS)책을 번역했습니다. My Github id is @synabreu
 - 👀 I’m interested in Distrubuted Computing, Big Data Analytics and Machine Learning including Deep Learning.
 - 🌱 I’m currently learning about several topics of deep learning, especially AWS SageMaker and Google's Vertext AI 
 - 💞️ I’m working as independent AI/ML architect and consultant advisor.
